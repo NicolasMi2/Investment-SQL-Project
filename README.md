@@ -32,6 +32,7 @@ Tech Stack
 - Client portfolios are not fully invested vs. AUM declared
 
 Sample Output
+
 ![Unrealized profit or loss per stock](https://github.com/user-attachments/assets/a48e654c-ff00-49ba-9ab8-c3ab35515bdb)
 ![profit_per_client](https://github.com/user-attachments/assets/571460a1-739c-4d74-8fa9-2dc9787bd36e)
 ![Portfolio exposure by sector (as a share of AUM)](https://github.com/user-attachments/assets/9a37aea0-eda5-4f29-b672-b007c011c86d)
