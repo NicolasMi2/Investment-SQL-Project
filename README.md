@@ -39,3 +39,11 @@ Sample Output
 ![Current portfolio value per client](https://github.com/user-attachments/assets/4e823985-cf96-493b-80a5-79c367ae0976)
 
 
+About Me
+
+I'm an Economics student and Investment Advisor from Brazil, preparing a career transition into Investment Analytics, with skills in SQL, Finance, and Data.
+
+Contact
+
+Feel free to connect on [LinkedIn](www.linkedin.com/in/nicolasmichels)
+
