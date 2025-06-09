@@ -45,5 +45,5 @@ I'm an Economics student and Investment Advisor from Brazil, preparing a career 
 
 Contact
 
-Feel free to connect on [LinkedIn](www.linkedin.com/in/nicolasmichels)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nicolasmichels)
 
