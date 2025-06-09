@@ -1,4 +1,4 @@
-Investment-SQL-Project
+Investment SQL Project – Portfolio Analysis with Real-World Insights
 Equity Portfolio Analysis using SQL
 
 
@@ -38,10 +38,11 @@ Sample Output
 ![Portfolio exposure by sector (as a share of AUM)](https://github.com/user-attachments/assets/9a37aea0-eda5-4f29-b672-b007c011c86d)
 ![Current portfolio value per client](https://github.com/user-attachments/assets/4e823985-cf96-493b-80a5-79c367ae0976)
 
-
 About Me
 
-I'm an Economics student and Investment Advisor from Brazil, preparing a career transition into Investment Analytics, with skills in SQL, Finance, and Data.
+Economics student | Investment Advisor transitioning into **Investment Analytics**  
+Skilled in **SQL**, **Finance**, **Valuation** and **Data Analysis**  
+From Brazil | Exploring data-driven equity insights
 
 Contact
 
